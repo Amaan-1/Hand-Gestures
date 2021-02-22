@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Jomhuria&display=swap");
+body {
+    color: white;
+    background: #c0d3ff;
+}
+
+span {
+    font-size: 30px;
+}
+
+#camera,
+#snap {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+#result_emotion_name,
+#result_emotion_name2 {
+    color: black;
+}
+
+.emotion_name {
+    font-size: 40px;
+}
+
+.emoji {
+    font-size: 48px;
+}
+
+.heading {
+    color: black;
+    font-size: 25px;
+    padding: 16px;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px 0 rgb(61 61 61 / 12%);
+    background-color: white;
+    width: 25%;
+    letter-spacing: 2.5px;
+    font-family: "Jomhuria", cursive;
+}
+
+.frame,
+.webcam {
+    color: black;
+    font-size: 50px;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px 0 rgb(61 61 61 / 12%);
+    background-color: white;
+    letter-spacing: 2.5px;
+    font-family: "Jomhuria", cursive;
+}
+
+button {
+    font-size: 25px;
+}
